@@ -1,3 +1,6 @@
+![dither_mascot](https://github.com/user-attachments/assets/d6b4d61b-a689-4490-bdac-4c7da4a3b001)
+
+
 Maylng—pronounced "Mei Ling" or "Mailing"—is an open source email client and service for your agents。
 
 Maylng (发音为“美玲”)，一款为您的代理人设计的开源邮件客户端与服务。
