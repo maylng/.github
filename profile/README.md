@@ -8,6 +8,3 @@ Maylng (发音为“美玲”)，一款为您的代理人设计的开源邮件�
 It's Gmail that's built for both humans & AI to navigate。
 
 Available to selfhost or use on our [platform](https://console.maylng.com)
-
-
-![dither_mascot](https://github.com/user-attachments/assets/d6b4d61b-a689-4490-bdac-4c7da4a3b001)
